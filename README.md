@@ -1,4 +1,6 @@
-# DeepMIM
+# DeepMIM 
+
+## 🎉DeepMIM is accepted by WACV2025 as oral presentation!
 
 ## Introduction
 This repository is the official implementation of our 
@@ -69,11 +71,12 @@ Performance comparison on ImageNet-1K classification and ADE20K Semantic Segment
 
 If you have any question, feel free to contact [Sucheng Ren](oliverrensu@gmail.com) :)
 ```
-@article{ren2023deepmim,
-    title={DeepMIM: Deep Supervision for Masked Image Modeling},
-    author={Sucheng Ren and Fangyun Wei and Samuel Albanie and  Zheng Zhang and Han Hu},
-    year={2023},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@inproceedings{ren2025deepmim,
+  title={Deepmim: Deep supervision for masked image modeling},
+  author={Ren, Sucheng and Wei, Fangyun and Zhang, Zheng and Albanie, Samuel  and Hu, Han},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={879--888},
+  year={2025},
+  organization={IEEE}
 }
 ```
